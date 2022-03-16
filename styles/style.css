@@ -1,0 +1,30 @@
+body {
+  background: rgb(216, 218, 153);
+}
+h1 {
+  color: white;
+}
+img {
+  margin-left: 0.5rem;
+  width: 100px;
+  height: 140px;
+  
+}
+.borderimg {
+  margin-left: 35rem;
+  background-color: rgb(136, 157, 196);
+  width: 120px;
+  height: 160px;
+  z-index: 1;
+}
+.sobre:hover {
+  background: red;
+  width: 75px;
+  height: 55px;
+}
+.correo {
+  color: blue;
+}
+.correo:hover {
+  color: red;
+}
